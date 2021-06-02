@@ -1,2 +1,2 @@
 # Project-Euler
-C++ solutions for problems from projecteuler.net
+These solutions are only for reference purpose, refer to them only if necessary.
